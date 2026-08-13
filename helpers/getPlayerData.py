@@ -16,7 +16,7 @@ playerList=[
         "understat_id": 2371
     },
     {
-        "name": "Kylian Mbappé",
+        "name": "Kylian Mbappe",
         "position": "Forward",
         "preferred_foot": "Right",
         "understat_id": 3423
