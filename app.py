@@ -9,7 +9,6 @@ st.title("SoccerHotzone")
 players=[player["name"] for player in playerList]
 selectedPlayer=st.selectbox("Select a player", players, key="selected_player", help="Select a player to view their shot data.", index=None)
 print(selectedPlayer)
-st.pyplot(fig)
 if selectedPlayer:
     fig, ax=plotGoals(selectedPlayer)
-    st.pyplot(ax.figure)
+    st.pyplot(fig)
