@@ -1,0 +1,131 @@
+{
+  "players": [
+    {
+      "name": "Lionel Messi",
+      "position": "Forward",
+      "preferred_foot": "Left",
+      "understat_id": 2097
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "position": "Forward",
+      "preferred_foot": "Right",
+      "understat_id": 2371
+    },
+    {
+      "name": "Kylian Mbappe",
+      "position": "Forward",
+      "preferred_foot": "Right",
+      "understat_id": 3423
+    },
+    {
+      "name": "Erling Haaland",
+      "position": "Forward",
+      "preferred_foot": "Left",
+      "understat_id": 8260
+    },
+    {
+      "name": "Robert Lewandowski",
+      "position": "Forward",
+      "preferred_foot": "Right",
+      "understat_id": 227
+    },
+    {
+      "name": "Harry Kane",
+      "position": "Forward",
+      "preferred_foot": "Right",
+      "understat_id": 647
+    },
+    {
+      "name": "Mohamed Salah",
+      "position": "Forward",
+      "preferred_foot": "Left",
+      "understat_id": 1250
+    },
+    {
+      "name": "Lautaro Martinez",
+      "position": "Forward",
+      "preferred_foot": "Right",
+      "understat_id": 7006
+    },
+    {
+      "name": "Romelu Lukaku",
+      "position": "Forward",
+      "preferred_foot": "Left",
+      "understat_id": 594
+    },
+    {
+      "name": "Karim Benzema",
+      "position": "Forward",
+      "preferred_foot": "Right",
+      "understat_id": 2370
+    },
+    {
+      "name": "Pierre-Emerick Aubameyang",
+      "position": "Forward",
+      "preferred_foot": "Right",
+      "understat_id": 318
+    },
+    {
+        "name": "Luis Suarez",
+        "position": "Forward",
+        "preferred_foot": "Right",
+        "understat_id": 2098
+    },
+    {
+        "name": "Sadio Mane",
+        "position": "Forward",
+        "preferred_foot": "Right",
+        "understat_id": 838
+    },
+    {
+        "name": "Paulo Dybala",
+        "position": "Forward",
+        "preferred_foot": "Left",
+        "understat_id": 1294
+    },
+    {
+        "name": "Sergio Aguero",
+        "position": "Forward",
+        "preferred_foot": "Left",
+        "understat_id": 619
+    }, 
+    {
+        "name": "Edinson Cavani",
+        "position": "Forward",
+        "preferred_foot": "Right",
+        "understat_id": 3294
+    }, 
+    {
+        "name": "Antoine Griezmann",
+        "position": "Forward",
+        "preferred_foot": "Left",
+        "understat_id": 2270
+    }, 
+    {
+        "name": "Son Heung-min",
+        "position": "Forward",
+        "preferred_foot": "Right",
+        "understat_id": 453
+    },
+    {
+        "name": "Ciro Immobile",
+        "position": "Forward",
+        "preferred_foot": "Right",
+        "understat_id": 1209
+    },
+    {
+        "name": "Jamie Vardy",
+        "position": "Forward",
+        "preferred_foot": "Right",
+        "understat_id":755
+    }
+    ,
+    {
+        "name": "Wissam Ben Yedder",
+        "position": "Forward",
+        "preferred_foot": "Right",
+        "understat_id": 3210
+    }
+  ]
+}
